@@ -1,0 +1,15 @@
+
+   You have choosed Hyundai i10.   
+
+   Specifications:
+
+   Hyundai i10
+  =================
+
+   Seating Capacity: 5
+   Engine: 1086cc, Petrol	
+   Mileage: 16.4kmpl
+   Fuel Capacity: 35L
+   Acceleration: 0-100kmph - 12.9s
+   Torque: 99.1Nm@4500rpm
+   Top Speed: 149kmph

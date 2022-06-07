@@ -1,0 +1,15 @@
+
+   You have choosed Mercedes Benz E-Class.   
+
+   Specifications:
+
+   Mercedes Benz E-Class
+  =======================
+
+   Seating Capacity: 5
+   Engine: 2925cc, Diesel
+   Mileage: 12.06kmpl
+   Fuel Capacity: 80L
+   Acceleration: 0-100kmph - 7.5s
+   Torque: 600nm@1200-3200rpm
+   Top Speed: 250kmph

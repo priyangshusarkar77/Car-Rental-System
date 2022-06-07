@@ -1,0 +1,15 @@
+
+   You have choosed Toyota Fortuner.   
+
+   Specifications:
+
+   Toyota Fortuner
+  =================
+
+   Seating Capacity: 7
+   Engine: 2755cc, Diesel	
+   Mileage: 10.52kmpl
+   Fuel Capacity: 80L
+   Acceleration: 0-100kmph - 14.5s
+   Torque: 500Nm@1600-2800rpm
+   Top Speed: 176kmph
